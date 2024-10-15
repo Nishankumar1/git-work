@@ -1,3 +1,3 @@
 # git-work
 
-this is my git work repo 
+this is not my git work repo 
